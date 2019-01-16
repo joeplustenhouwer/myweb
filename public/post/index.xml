@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Joep Lustenhouwer</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Joep Lustenhouwer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Internal Funding for Laboratory Experiment</title>
+      <link>/post/expfun/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/expfun/</guid>
+      <description>The University of Bamberg funds a joint project with Tomasz Makarewicz, Christian Proa&amp;#xf1;o and Juan Carlos Pe&amp;#xf1;a, titled &amp;lsquo;Are Some People More Equal than Others? Experimental Evidence on Group Identity and Income Inequality.&amp;rsquo;
+The committee for research and young talent (FNK) of the University of Bamberg selected the proposal sent by Tomasz Makarewicz and myself and decided to fund our experiment. In this project we will test whether political polarization and an unwillingness for redistribution are mainly driven by economic incentives, or mainly by social identity and group formation.</description>
+    </item>
+    
+    <item>
+      <title>Second Behavioral Macroeconomics Workshop</title>
+      <link>/post/conf/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/conf/</guid>
+      <description>With great pleasure, I want to draw your attention to the call for papers of the Second Behavioral Macroeocnomcis Workshop, that we are organizing in the city of Bamberg on June 14 and 15.
+I really enjoyed the high quality presentations and interesting conversations of last year&amp;rsquo;s edition, and I am confident that this year&amp;rsquo;s workshop will be even better. The theme of the workshop will be &amp;lsquo;Heterogeneity and Expectations in Macroeconomics and Finance&amp;rsquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
