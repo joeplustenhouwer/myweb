@@ -1,0 +1,15 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hero"]
+	path = themes/hero
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/Hero"]
+	path = themes/Hero
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/themes/academic"]
+	path = themes/themes/academic
+	url = https://github.com/gcushen/hugo-academic
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic
