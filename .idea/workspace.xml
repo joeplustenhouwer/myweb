@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/_default/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/_default/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/docs/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/docs/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/home/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/home/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/index.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/comments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/cookie_consent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/css/academic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/css/parse_theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/docs_layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/docs_sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/docs_toc_foot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/footer_container.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/footer_section.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/head_custom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/navbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_author.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_links.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_links_div.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_metadata.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/pagination.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/post_li_detailed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/post_li_simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/post_li_stream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/project_li_card.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/project_li_showcase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/project_li_simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_apa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_detailed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_mla.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_stream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/section_pager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/share.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/slides.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/tags.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/talk_li_detailed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/talk_li_simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/talk_li_stream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widget_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/accomplishments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/custom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/experience.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/featurette.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/hero.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/hero_carousel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/posts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/projects.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/publications.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/publications_selected.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/tag_cloud.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/talks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/talks_selected.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/project/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/publication/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/rss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/section/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/section/post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/section/publication.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/section/talk.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/alert.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/figure.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/fragment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/gdocs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/hl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/list_categories.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/list_tags.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/slide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/speaker_note.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/staticref.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/toc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/sitemap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/slides/baseof.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/slides/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/slides/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/talk/single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/BildJoep.png" afterPath="$PROJECT_DIR$/static/img/BildJoep.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -338,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547753660968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="layoutss">
+      <created>1547754501436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547754501436</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -371,7 +290,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="17" />
     <MESSAGE value="aca" />
-    <option name="LAST_COMMIT_MESSAGE" value="aca" />
+    <MESSAGE value="layoutss" />
+    <option name="LAST_COMMIT_MESSAGE" value="layoutss" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
