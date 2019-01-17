@@ -2,6 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/_default/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/_default/single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/docs/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/docs/single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/home/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/home/single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/index.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/comments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/cookie_consent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/css/academic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/css/parse_theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/docs_layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/docs_sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/docs_toc_foot.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/footer_container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/footer_section.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/head_custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_author.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_links.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_links_div.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/page_metadata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/post_li_detailed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/post_li_simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/post_li_stream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/project_li_card.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/project_li_showcase.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/project_li_simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_apa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_detailed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_mla.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/publication_li_stream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/section_pager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/share.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/slides.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/tags.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/talk_li_detailed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/talk_li_simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/talk_li_stream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widget_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/accomplishments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/experience.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/featurette.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/hero.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/hero_carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/posts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/projects.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/publications.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/publications_selected.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/tag_cloud.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/talks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/partials/widgets/talks_selected.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/project/single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/publication/single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/section/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/section/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/section/publication.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/section/talk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/figure.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/fragment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/gdocs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/hl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/list_categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/list_tags.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/slide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/speaker_note.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/staticref.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/toc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/shortcodes/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/sitemap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/slides/baseof.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/slides/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/slides/single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/talk/single.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +106,16 @@
         <entry file="file://$PROJECT_DIR$/public/img/headers/bubbles-wide.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layouts/docs/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -69,16 +168,6 @@
         <entry file="file://$PROJECT_DIR$/resources/_gen/images/post/conf/featured_hudb3007fc6b76104f8c2fa2c263689dac_159046_400x0_resize_box_2.png">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/layouts/docs/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -165,59 +254,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="archetypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="_gen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 2.7.10 (C:\Python27\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,6 +292,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ba2bu4\PycharmProjects\mysite" />
       <recent name="C:\Users\ba2bu4\PycharmProjects\website" />
       <recent name="C:\Hugo\bin\quickstart\content\post" />
       <recent name="C:\Hugo\bin\quickstart\content\publication" />
@@ -277,11 +343,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1551" height="839" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28859934" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28859934" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -295,6 +361,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -315,7 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -346,7 +412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -354,7 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="75" column="22" lean-forward="true" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -362,7 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -370,7 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -378,7 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-48">
           <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -386,7 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -401,7 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -421,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
           <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -430,7 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6384">
           <caret line="304" column="16" lean-forward="false" selection-start-line="304" selection-start-column="16" selection-end-line="304" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -440,7 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -448,7 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -463,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -471,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,18 +590,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/academic/layouts/partials/page_header.html">
+    <entry file="file://$PROJECT_DIR$/themes/academic/layouts/partials/page_header.html" />
+    <entry file="file://$PROJECT_DIR$/layouts/docs/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/docs/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
