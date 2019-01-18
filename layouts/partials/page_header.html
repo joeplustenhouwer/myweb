@@ -32,7 +32,7 @@
 {{ if and $featured (not .Params.image.preview_only) }}
 {{ $image := $featured.Resize "400x" }}
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('{{ $image.RelPermalink }}');padding-top:50px"></div>
+  <div class="featured-image" style="background-image: url('{{ $image.RelPermalink }}')"></div>
   {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
 </div>
 
@@ -56,7 +56,7 @@
       </div>
     </div>
     <div class="col-6">
-      <div class="split-header-image">
+      <div class="split-header-image" style="padding-top:50px">
         <img src="{{ $image.RelPermalink }}" itemprop="image" alt="">
         {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
       </div>
