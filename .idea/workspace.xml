@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/post/Conf/featured.png" afterPath="$PROJECT_DIR$/content/post/Conf/featured.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/page_header.html" afterPath="$PROJECT_DIR$/layouts/partials/page_header.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,13 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="bubbles-wide.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/img/headers/bubbles-wide.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/docs/list.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -31,10 +24,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="featured.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="featured.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/post/Conf/featured.png">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layouts/partials/page_header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -150,6 +155,7 @@
         <option value="$PROJECT_DIR$/content/post/getting-started/index.md" />
         <option value="$PROJECT_DIR$/content/post/conference/index.md" />
         <option value="$PROJECT_DIR$/content/post/Conf/index.md" />
+        <option value="$PROJECT_DIR$/layouts/partials/page_header.html" />
       </list>
     </option>
   </component>
@@ -197,6 +203,17 @@
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="post" type="462c0819:PsiDirectoryNode" />
               <item name="Conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
@@ -278,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547757063147</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="bild2">
+      <created>1547803183300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547803183300</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -313,20 +337,14 @@
     <MESSAGE value="aca" />
     <MESSAGE value="layoutss" />
     <MESSAGE value="bild" />
-    <option name="LAST_COMMIT_MESSAGE" value="bild" />
+    <MESSAGE value="bild2" />
+    <option name="LAST_COMMIT_MESSAGE" value="bild2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/home/publications.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/home/talks_selected.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -539,6 +557,16 @@
     <entry file="file://$PROJECT_DIR$/content/post/Conf/featured.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/page_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

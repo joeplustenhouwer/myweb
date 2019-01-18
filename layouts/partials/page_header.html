@@ -32,7 +32,7 @@
 {{ if and $featured (not .Params.image.preview_only) }}
 {{ $image := $featured.Resize "400x" }}
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('{{ $image.RelPermalink }}');"></div>
+  <div class="featured-image" style="background-image: url('{{ $image.RelPermalink }}');padding-top:50px"></div>
   {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
 </div>
 
