@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = []
-summary = "The paper titled "Managing Unanchored, Heterogeneous Expectations and Liquidity Traps" got accepted at the Journal of Economic Dynamics and Control. This is one of my joint projects with Cars Hommes. The online version of the accepted article can be found here."
+summary = "The paper titled <i>Managing Unanchored, Heterogeneous Expectations and Liquidity Traps</i> got accepted at the Journal of Economic Dynamics and Control. This is one of my joint projects with Cars Hommes. The online version of the accepted article can be found here."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
