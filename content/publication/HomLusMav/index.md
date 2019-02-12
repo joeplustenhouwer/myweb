@@ -1,5 +1,5 @@
 +++
-title = "Fiscal consolidations and heterogeneous expectations"
+title = "Fiscal Consolidations and Heterogeneous Expectations"
 date = 2018-02-01T00:00:00
 draft = false
 
