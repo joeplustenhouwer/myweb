@@ -41,7 +41,7 @@ summary = "The paper titled <i>Managing Unanchored, Heterogeneous Expectations a
 #caption = "Default"
 
 +++
-The paper titled "<i>Managing Unanchored, Heterogeneous Expectations and Liquidity Traps<\i>" got accepted at the Journal of Economic Dynamics and Control. This is one of my joint projects with Cars Hommes.
+The paper titled "<i>Managing Unanchored, Heterogeneous Expectations and Liquidity Traps</i>" got accepted at the Journal of Economic Dynamics and Control. This is one of my joint projects with Cars Hommes.
 
 The online version of the accepted article can be found  <a href="https://doi.org/10.1016/j.jedc.2019.01.004">here</a>.
 
