@@ -18,11 +18,11 @@ authors = ["Cars Hommes","Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BERG Working Paper 131"
-publication_short = "JEDC"
+publication =  "Journal of Economic Dynamics and Control"
+#publication_short = "JEDC"
 
 # Abstract and optional shortened version.
-abstract = "We study the possibility of (almost) self-fulfilling waves of pessimism and selfreinforcing liquidity traps in a New Keynesian model with heterogeneous expectations. We explicitly focus on the 'anchoring' of expectations that is modeled as the range of deviations from the central bank targets (and from the rational expectation equilibrium) that agents are willing to consider. We find that when the zero lower bound on the nominal interest rate is not binding, aggressive monetary policy can prevent waves of pessimism and exclude near unit root dynamics, even when expectations are unanchored. However, as shocks bring the economy to a situation with a binding zero lower bound, there is a danger of a long lasting self-reinforcing liquidity trap that arises because of the existence of multiple steady states. It turns out that in a model where the anchoring of expectations evolves endogenously, the anchoring of expectations at the time the bad shocks hit is crucial in determining whether the economy can recover from the liquidity trap. Furthermore, a higher inflation target reduces the probability that self-reinforcing liquidity traps arise."
+abstract = "We study the possibility of (almost) self-fulfilling waves of optimism and pessimism and self-fulfilling liquidity traps in a New Keynesian model with a continuum of heterogeneous expectations. In particular, all agents choose, based on past forecasting performance, expectation values out of a distribution around the targets of the central bank. This framework allows us to explicitly model the ?anchoring? of expectations as the variance of this distribution of possible expectation values. We find that when the zero lower bound on the nominal interest rate is not binding, adequate monetary policy can prevent waves of optimism and pessimism and exclude near unit root dynamics, even when expectations are unanchored. However, as shocks bring the economy to a situation with a binding zero lower bound, there is a danger of a long lasting self-fulfilling liquidity trap that can take the form of a deflationary spiral. This can be prevented if expectations are strongly enough anchored to the targets, or if the inflation target is high enough."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_131.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -65,7 +65,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.jedc.2019.01.004"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
