@@ -1,5 +1,5 @@
 +++
-title = "New Publication at the Journal of Economic Dynamics and Control"
+title = "New Publication in the Journal of Economic Dynamics and Control"
 subtitle = ""
 
 date = 2019-02-12T00:00:00
