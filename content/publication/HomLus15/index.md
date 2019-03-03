@@ -18,7 +18,7 @@ authors = ["Cars Hommes","Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CeNDEF Working paper 15-03"
+publication = "Journal of Monetary Economics, forthcoming."
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = "We derive policy implications for an inflation targeting central ban
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.uni-bamberg.de/fileadmin/060322/Dokumente/hommeslustenhouwer_november2015.pdf"
+url_pdf = "https://www.bankofcanada.ca/2019/02/staff-working-paper-2019-9/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
