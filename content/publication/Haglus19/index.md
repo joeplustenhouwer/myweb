@@ -1,10 +1,10 @@
 +++
-title = "Inflation Targeting and Liquidity Traps under Endogenous Credibility"
-date = 2019-03-01T00:00:00
+title = "The Rationality Bias"
+date = 2017-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cars Hommes","Joep Lustenhouwer"]
+authors = ["Tim Hagenhoff","Joep Lustenhouwer"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Cars Hommes","Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Monetary Economics, forthcoming"
+publication = "BERG Working Paper 144"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Policy implications are derived for an inflation targeting central bank, whose credibility is endogenous and depends on its past ability to achieve its targets. This is done in a New Keynesian framework with heterogeneous and boundedly rational expectations. We find that the region of allowed policy parameters is strictly larger than under rational expectations. However, when the zero lower bound (ZLB) on the nominal interest rate is accounted for, self-fulfilling deflationary spirals can occur, depending on the credibility of the central bank. Deflationary spirals can be prevented with a high inflation target and aggressive monetary easing."
+abstract = "We analyze differences in consumption and wealth that arise because of different degrees of rationality of households. In particular, we use a standard New Keynesian model and let a certain fraction of households be fully rational while the other fraction possesses less cognitive ability. We identify the rationality bias of boundedly rational agents, defined as a deviation from the fully rational benchmark, as the driver of consumption and wealth heterogeneity. It turns out that the rationality bias can be decomposed into three individual components: the consumption expectation bias, the real interest rate bias and the preference shock expectation bias. We show that for certain specifications of monetary policy the rationality bias can be eliminated because its individual components exactly offset each other although they are individually non-zero. However, it might not be desirable from a welfare perspective to eliminate the rationality bias as this comes along with high inflation volatility."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.bankofcanada.ca/2019/02/staff-working-paper-2019-9/"
+url_pdf = "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_144.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -74,10 +74,10 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
 +++
 
