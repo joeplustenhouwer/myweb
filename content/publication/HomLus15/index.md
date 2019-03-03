@@ -1,6 +1,6 @@
 +++
 title = "Inflation Targeting and Liquidity Traps under Endogenous Credibility"
-date = 2015-11-01T00:00:00
+date = 2019-02-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Cars Hommes","Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Monetary Economics, forthcoming."
+publication = "Journal of Monetary Economics, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
