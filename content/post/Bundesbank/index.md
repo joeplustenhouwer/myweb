@@ -1,6 +1,6 @@
 +++
 title = "Research funding from the Deutsche Bundesbank"
-subtitle = "Are Some People More Equal than Others? Experimental Evidence on Group Identity and Income Inequality"
+subtitle = "The role of expectation formation in the transmission of monetary and fiscal policy:  Evidence from macro-experiments"
 
 date = 2019-04-01T00:00:00
 lastmod = 2019-04-01T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = []
-summary = "During the following two years, the Deutsche Bundesbank will fund a project conducted by Prof. Dr. Christian Proa&#xf1;o and myself, titled "The role of expectation formation in the transmission of monetary and fiscal policy:  Evidence from macro-experiments".
+summary = "During the following two years, the Deutsche Bundesbank will fund a project conducted by Prof. Dr. Christian Proa&#xf1;o and myself, titled '<i>The role of expectation formation in the transmission of monetary and fiscal policy:  Evidence from macro-experiments</i>'."
 
 
 # Projects (optional).
