@@ -22,7 +22,7 @@ publication = "Macroeconomic Dynamics, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We study a New Keynesian model with  bounded rationality, where agents choose their expectations heterogeneously from a discrete choice set. The range of their set of possible expectation values can be interpreted as the anchoring of expectations. In the model, multiple locally stable steady states can arise that reflect coordination on particular expectation values."
+abstract = "We study a New Keynesian model with  bounded rationality, where agents choose their expectations heterogeneously from a discrete choice set. The range of their set of possible expectation values can be interpreted as the anchoring of expectations. In the model, multiple locally stable steady states can arise that reflect coordination on particular expectation values. Moreover, bad shocks to the economy can trigger a self-reinforcing wave of pessimism, where the zero lower bound on the nominal interest rate becomes binding, and agents coordinate on a locally stable liquidity trap steady state. When we let the anchoring of expectations evolve endogenously, it turns out that the anchoring of expectations at the time the bad shocks hit the economy is crucial in determining whether the economy can recover from the liquidity trap. Finally, we find that a higher inflation target makes it less likely that self-reinforcing liquidity traps arise."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
