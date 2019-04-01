@@ -41,6 +41,6 @@ summary = "The University of Bamberg funds a joint project with Tomasz Makarewic
 #caption = "Default"
 
 +++
-During the following two years, the Deutsche Bundesbank will financially support the project ?The role of expectation formation in the transmission of monetary and fiscla policy:  Evidence from macro-experiments?. The project will be conducted by Prof. Dr. Christian Proa?o and myself.
+During the following two years, the Deutsche Bundesbank will financially support the project "The role of expectation formation in the transmission of monetary and fiscal policy:  Evidence from macro-experiments". The project will be conducted by Prof. Dr. Christian Proa&#xf1;o and myself.
 
-In this project, two macro-experiments will be carried out to investigate how economic agents' expectations affect monetary and fiscal policies in normal periods and in periods when the zero lower bound (ZLB) plays an important role.
+In this project, two macro-experiments will be carried out to investigate how economic agents' expectations affect monetary and fiscal policy in normal periods and in periods when the zero lower bound (ZLB) plays an important role.
