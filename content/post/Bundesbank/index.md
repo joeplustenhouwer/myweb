@@ -10,7 +10,8 @@ draft = false
 authors = []
 
 tags = []
-summary = "The University of Bamberg funds a joint project with Tomasz Makarewicz, Christian Proa&#xf1;o and Juan Carlos Pe&#xf1;a,    titled '<i>Are Some People More Equal than Others? Experimental Evidence on Group Identity and Income Inequality</i>'."
+summary = "During the following two years, the Deutsche Bundesbank will fund a project conducted by Prof. Dr. Christian Proa&#xf1;o and myself, titled "The role of expectation formation in the transmission of monetary and fiscal policy:  Evidence from macro-experiments".
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
