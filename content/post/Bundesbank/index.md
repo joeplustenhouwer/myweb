@@ -2,8 +2,8 @@
 title = "Research funding from the Deutsche Bundesbank"
 subtitle = "The role of expectation formation in the transmission of monetary and fiscal policy:  Evidence from macro-experiments"
 
-date = 2019-04-01T00:00:00
-lastmod = 2019-04-01T00:00:00
+date = 2019-03-30T00:00:00
+lastmod = 2019-03-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
