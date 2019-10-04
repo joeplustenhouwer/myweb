@@ -10,9 +10,7 @@ draft = false
 authors = []
 
 tags = []
-summary = "Today I started my new position as Junior Professor (assistant professor) at the University of Heidelberg.
-
-I really enjoyed my time at the University of Bamberg, and now I look forward to meeting and cooperating with my new colleagues in Heidelberg."
+summary = "Today I started my new position as Junior Professor (assistant professor) at the University of Heidelberg. I really enjoyed my time at the University of Bamberg, and now I look forward to meeting and cooperating with my new colleagues in Heidelberg."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -43,7 +41,6 @@ I really enjoyed my time at the University of Bamberg, and now I look forward to
 #caption = "Default"
 
 +++
+Today I started my new position as Junior Professor (assistant professor) at the University of Heidelberg.
 
-Today I started my new position as Junior Professor (assistent professor) at the University of Heidelberg.
-
-I really enjoyed being at the University of Bamberg, and now I look foreward to meeting and cooperating with my new collegues in Heidelberg.
+I really enjoyed my time at the University of Bamberg, and now I look forward to meeting and cooperating with my new colleagues in Heidelberg.
