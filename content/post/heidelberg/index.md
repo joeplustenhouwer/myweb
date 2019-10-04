@@ -1,6 +1,6 @@
 +++
-title = "Internal Funding for Laboratory Experiment"
-subtitle = "Are Some People More Equal than Others? Experimental Evidence on Group Identity and Income Inequality"
+title = "New Job"
+subtitle = "Assitant Professor University of Heidelberg"
 
 date = 2019-10-01T00:00:00
 lastmod = 2019-10-01T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = []
-summary = "Today I started my new position as Junior Professor (assistant professor) at the University of Heidelberg. I really enjoyed my time at the University of Bamberg, and now I look forward to meeting and cooperating with my new colleagues in Heidelberg."
+summary = "Today I started my new position as Juniorprofessor (Assistant Professor) at the University of Heidelberg. I really enjoyed my time at the University of Bamberg, and now I look forward to meeting and cooperating with my new colleagues in Heidelberg."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -41,6 +41,6 @@ summary = "Today I started my new position as Junior Professor (assistant profes
 #caption = "Default"
 
 +++
-Today I started my new position as Junior Professor (assistant professor) at the University of Heidelberg.
+Today I started my new position as Juniorprofessor (Assistant Professor) at the University of Heidelberg.
 
 I really enjoyed my time at the University of Bamberg, and now I look forward to meeting and cooperating with my new colleagues in Heidelberg.
