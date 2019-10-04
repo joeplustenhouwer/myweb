@@ -41,5 +41,5 @@ summary = "The paper titled <i>Inflation Targeting and Liquidity Traps under End
 #caption = "Default"
 
 +++
-The paper titled "<i>Inflation Targeting and Liquidity Traps under Endogenous Credibility</i>", joined with Cars Hommes, was accepted for publication at the Journal of Monetary Economics and can now be found online  <a href="https://doi.org/HomLus15">here</a>."
+The paper titled "<i>Inflation Targeting and Liquidity Traps under Endogenous Credibility</i>", joined with Cars Hommes, was accepted for publication at the Journal of Monetary Economics and can now be found online  <a href="https://doi.org/10.1016/j.jmoneco.2019.01.027">here</a>."
 
