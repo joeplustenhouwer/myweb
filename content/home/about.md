@@ -44,6 +44,6 @@ weight = 5
 
 # About me
 
-I am a postdoctoral researcher at the University of Bamberg, and part of the Bamberg Research Group on Behavioral Macroeconomics (BaGBeM).
+I am an assistent professor (Jun. Prof.) in Macroeconomics at the University of Heidelberg.
 
 My general approach in research  is to incorporate behavioral and bounded rationality features into macroeconomic modelling. I believe that new insights can be obtained by also considering models that deviate from the fully rational representative agent that  optimizes over an infinite planning horizon. I am especially interested in studying issues and models that concern monetary and fiscal policy. My aim is to use a bounded rationality to gain new insights that are relevant for policy makers.
