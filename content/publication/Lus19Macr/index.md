@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CDEF8C1819FD901F3CBBF44DBF5189A3/S1365100519000324a.pdf/unanchored_expectations_selfreinforcing_liquidity_traps_and_multiple_steady_states.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

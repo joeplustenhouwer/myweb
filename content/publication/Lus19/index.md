@@ -18,7 +18,7 @@ authors = ["Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Macroeconomic Dynamics"
+publication = "BERG Working Paper 138"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = "I study expectation driven liquidity traps in a model were agents ha
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
