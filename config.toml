@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "BildJoep.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "joep.lustenhouwer@uni-bamberg.de"
+  email = "joep.lustenhouwer@awi.uni-heidelberg.de"
   address = "Otto-Friedrich-Universit&#228;t Bamberg, Feldkirchenstr. 21, 96045 Bamberg, Germany"
   phone = "+49-951-863-2580"
   skype = ""
@@ -258,7 +258,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:joep.lustenhouwer@uni-bamberg.de".
+    link = "#contact"  # For a direct email link, use "mailto:joep.lustenhouwer@awi.uni-heidelberg.de".
 
 #  [[params.social]]
  #   icon = "twitter"
