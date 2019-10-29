@@ -43,4 +43,4 @@ summary = "Today I started my new position as Juniorprofessor (Assistant Profess
 +++
 Today I started my new position as Juniorprofessor (Assistant Professor) at the University of Heidelberg.
 
-I really enjoyed my time at the University of Bamberg, and now I look forward to meeting and cooperating with my new colleagues in Heidelberg.
+I really enjoyed my time at the University of Bamberg, and now I look forward to meeting, and cooperating with, my new colleagues in Heidelberg.
