@@ -18,7 +18,7 @@ authors = ["Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BERG Working Paper 138"
+publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_138.pdf"
+url_pdf = "files/FiscalStimulus.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
