@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="heidelberg">
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="pdf">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publication/Lus19/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Lus19/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,18 +16,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1546" />
-    <option name="height" value="874" />
-  </component>
   <component name="ProjectId" id="1StSl2o5VNOKOfYnEs1XNnNQkx9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="about&#9;FILE&#9;file://C:/Hugo/bin/quickstart/themes/academic/layouts/partials/widgets/about.html" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Seafile/Meine Bibliothek/expectations_components/Otree" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ba2bu4\PycharmProjects\mysite\content\post" />
       <recent name="C:\Users\ba2bu4\PycharmProjects\mysite\content\publication\Lus19Macr" />
@@ -373,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574622391706</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="pdf">
+      <created>1579038368506</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1579038368507</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,6 +413,7 @@
     <MESSAGE value="&#10;bunde" />
     <MESSAGE value="macrodyn" />
     <MESSAGE value="heidelberg" />
-    <option name="LAST_COMMIT_MESSAGE" value="heidelberg" />
+    <MESSAGE value="pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="pdf" />
   </component>
 </project>

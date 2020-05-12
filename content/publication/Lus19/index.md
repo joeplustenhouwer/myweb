@@ -1,5 +1,5 @@
 +++
-title = "Fiscal Stimulus in an Expectation Driven Liquidity Trap"
+title = "Fiscal Stimulus in Expectations-Driven Liquidity Traps"
 date = 2018-09-01T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "I study expectation driven liquidity traps in a model were agents have finite planning horizons and heterogeneous expectations. There are backward-looking agents, who base their expectations on past observations, and forward-looking agents, who observe the expectations of backward-looking agents, and use model equations within their planning horizon to make forecasts. Expectation driven liquidity traps arise when the presence of backward-looking agents leads to a wave of pessimism after a single, non-persistent, negative preference shock. I find that fiscal stimulus in the form of an increase in government spending or a cut in consumption taxes can be very effective in mitigating the liquidity trap. Moreover, an adequate response of these measures is found to always be able to prevent deflationary spirals, that can arise when there is a large fraction of backward-looking agents with a longer planning horizon. A positive inflation target furthermore reduces the fiscal stimulus required to resolve a liquidity trap for any given size of the negative preference shock. In contrast, fiscal stimulus in the form of labor tax cuts is deflationary and hardly effective in mitigating liquidity traps"
+abstract = "I study liquidity traps in a model were agents have heterogeneous expectations and finite planning horizons. Backward-looking agents base their expectations on past observations, while forward-looking agents have fully rational expectations. Liquidity traps that are fully or partly driven by expectations can arise due to pessimism of backward-looking agents. Only when planning horizons are finite, these liquidity traps can be of longer duration without ending up in a deflationary spiral.  I further find that fiscal stimulus in the form of an increase in government spending or a cut in consumption taxes can be very effective in mitigating the liquidity trap. A feedback mechanism of heterogeneous expectations causes fiscal multipliers to be the largest when the majority of agents is backward-looking but there also is a considerable fraction of agents that are forward-looking. Labor tax cuts are  always deflationary and are not an effective tool in a liquidity trap."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "files/FiscalStimulus.pdf"
+url_pdf = "https://www.uni-heidelberg.de/md/awi/forschung/dp683.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
