@@ -18,7 +18,7 @@ authors = ["Cars Hommes","Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Monetary Economics, forthcoming"
+publication = "Journal of Monetary Economics"
 publication_short = ""
 
 # Abstract and optional shortened version.
