@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jme">
-      <change afterPath="$PROJECT_DIR$/content/publication/HomLus15/cite.bib" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="cite">
+      <change beforePath="$PROJECT_DIR$/content/home/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/about.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -393,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592656481084</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="cite">
+      <created>1592656754714</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1592656754714</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,6 +435,7 @@
     <MESSAGE value="pdf" />
     <MESSAGE value="revision" />
     <MESSAGE value="jme" />
-    <option name="LAST_COMMIT_MESSAGE" value="jme" />
+    <MESSAGE value="cite" />
+    <option name="LAST_COMMIT_MESSAGE" value="cite" />
   </component>
 </project>

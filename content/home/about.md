@@ -17,7 +17,8 @@ weight = 5
   "Bounded rationality",
   "Monetary policy",
   "Fiscal policy",
-  "Experimental macroeconomics"   ]
+  "Experimental macroeconomics",
+    "Expectation formation"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
