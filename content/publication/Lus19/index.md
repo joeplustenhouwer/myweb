@@ -1,6 +1,6 @@
 +++
 title = "Fiscal Stimulus in Expectations-Driven Liquidity Traps"
-date = 2018-09-01T00:00:00
+date = 2020-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

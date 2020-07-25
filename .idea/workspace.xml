@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="expectation">
-      <change afterPath="$PROJECT_DIR$/content/publication/Lus19/cite.bib" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jebo">
+      <change afterPath="$PROJECT_DIR$/content/post/jebo/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/publication/Lus19/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Lus19/index.md" afterDir="false" />
     </list>
@@ -24,7 +24,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="about&#9;FILE&#9;file://C:/Hugo/bin/quickstart/themes/academic/layouts/partials/widgets/about.html" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/publication/Lus19" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/post" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RecentsManager">
@@ -32,11 +32,11 @@
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\post" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\Lus19" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\HomLus15" />
       <recent name="C:\Users\ba2bu4\PycharmProjects\mysite\content\post" />
-      <recent name="C:\Users\ba2bu4\PycharmProjects\mysite\content\publication\Lus19Macr" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,13 +61,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00002" summary="aca">
-      <created>1547753660968</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1547753660968</updated>
     </task>
     <task id="LOCAL-00003" summary="layoutss">
       <created>1547754501436</created>
@@ -405,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592657110626</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="jebo">
+      <created>1595670119540</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1595670119541</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -442,6 +442,7 @@
     <MESSAGE value="jme" />
     <MESSAGE value="cite" />
     <MESSAGE value="expectation" />
-    <option name="LAST_COMMIT_MESSAGE" value="expectation" />
+    <MESSAGE value="jebo" />
+    <option name="LAST_COMMIT_MESSAGE" value="jebo" />
   </component>
 </project>
