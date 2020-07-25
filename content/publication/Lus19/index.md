@@ -18,7 +18,7 @@ authors = ["Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Journal of Economic Behavior & Organization, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = "I study liquidity traps in a model were agents have heterogeneous ex
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -65,7 +65,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.jebo.2020.07.003"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
