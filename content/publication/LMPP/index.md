@@ -1,10 +1,10 @@
 +++
-title = "The Stabilizing Role of Forward Guidance: A Macro Experiment"
-date = 2018-09-01T00:00:00
+title = "Are Some People More Equal than Others? Experimental Evidence on Group Identity and Income Inequality"
+date = 2021-02-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Steffen Ahrens", "Joep Lustenhouwer", "Michele Tettamanzi"]
+authors = ["Joep Lustenhouwer", "Tomasz Makarewicz", "Juan Carlos Pe&ntilde;a" , "Christian R. Proa&ntilde;o"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,20 @@ authors = ["Steffen Ahrens", "Joep Lustenhouwer", "Michele Tettamanzi"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BERG Working Paper 137"
+publication = "BERG Working Paper 168"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Expectations are among the main driving forces for economic dynamics. Therefore, managing expectations has become a primary objective for monetary policy seeking to stabilize the business cycle. In this paper, we study whether central banks can manage market expectations by means of forward guidance in a New Keynesian learning-to-forecast experiment. Forward guidance takes the form of one-period ahead inflation projections that are published by the central bank in each period. Subjects in the experiment observe these projections along with the historic development of the economy and subsequently submit their own one-period ahead inflation forecasts. In this context, we find that the central bank can significantly manage market expectations through forward guidance and that this management strongly supports monetary policy in stabilizing the economy. Moreover, forward guidance drastically reduces the probability of a deflationary spiral after strong negative shocks to the economy."
+abstract = "We investigate the effects of group identity and income inequality on social preferences and polarization by means of a laboratory experiment. We split our subjects into two populations: in-group
+(representing 'natives') and out-group ('migrants'). In-group subjects repeatedly vote whether
+an unemployment insurance should cover all, some, or no members of their group. By means of
+a two-by-two design we disentangle the effect of group identity from those of income inequality.
+Among others, our experiment yields the following findings: (1) subjects tend to vote for less
+inclusive insurance schemes when they sample a higher chance of employment; however, (2) in-group subjects with an ex ante more beneficial distribution of employment chances – relative to
+the out-group – are less selfish and vote for more inclusive insurance schemes; (3) ex ante more
+beneficial relative employment chances of in-group subjects also leads to less polarization; and
+(4) revelation and priming of group identity does not lead to discrimination against out-group
+'migrants' but, on the contrary, can lead to more compassionate and inclusive attitudes."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -50,7 +59,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_137.pdf"
+url_pdf = "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_168.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
