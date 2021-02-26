@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jebo">
-      <change afterPath="$PROJECT_DIR$/content/publication/Haglus20/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/LMPP/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,15 +27,15 @@
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\post" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\Lus19" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\HomLus15" />
       <recent name="C:\Users\ba2bu4\PycharmProjects\mysite\content\post" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,13 +60,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00004" summary="bild">
-      <created>1547757063146</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1547757063147</updated>
     </task>
     <task id="LOCAL-00005" summary="bild2">
       <created>1547803183300</created>
@@ -404,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595670726445</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="jebo">
+      <created>1605019215312</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1605019215312</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
