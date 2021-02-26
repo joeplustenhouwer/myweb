@@ -18,7 +18,7 @@ authors = ["Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Economic Behavior & Organization, forthcoming"
+publication = "Journal of Economic Behavior & Organization"
 publication_short = ""
 
 # Abstract and optional shortened version.
