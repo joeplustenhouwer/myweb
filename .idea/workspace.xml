@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="rr">
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="hebo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/Lus19/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Lus19/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +60,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00009" summary="jedc2">
-      <created>1549993649785</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1549993649785</updated>
     </task>
     <task id="LOCAL-00010" summary="jedc2news">
       <created>1549993840923</created>
@@ -404,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614365955070</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="hebo">
+      <created>1614366851096</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1614366851096</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,6 +444,7 @@
     <MESSAGE value="jebo" />
     <MESSAGE value="inequality" />
     <MESSAGE value="rr" />
-    <option name="LAST_COMMIT_MESSAGE" value="rr" />
+    <MESSAGE value="hebo" />
+    <option name="LAST_COMMIT_MESSAGE" value="hebo" />
   </component>
 </project>
