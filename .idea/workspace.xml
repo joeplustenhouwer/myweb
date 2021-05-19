@@ -27,15 +27,17 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\post" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\Lus19" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\HomLus15" />
       <recent name="C:\Users\ba2bu4\PycharmProjects\mysite\content\post" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\static\img" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\static\img\headers" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
     </key>
   </component>
   <component name="RunDashboard">
