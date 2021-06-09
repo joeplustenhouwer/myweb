@@ -2,8 +2,8 @@
 title = "Third Behavioral Macroeconomics Workshop"
 subtitle = "Heterogeneity and Expectations in Macroeconomics and Finance"
 
-date = 2019-01-17T00:00:00
-lastmod = 2019-01-17T00:00:00
+date = 2021-06-09T00:00:00
+lastmod = 2021-06-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
