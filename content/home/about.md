@@ -14,11 +14,11 @@ weight = 5
 [interests]
   interests = [
   "Macroeconomics",
+   "Expectation formation",
   "Bounded rationality",
   "Monetary policy",
   "Fiscal policy",
-  "Experimental macroeconomics",
-    "Expectation formation"]
+  "Experimental macroeconomics"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -45,6 +45,6 @@ weight = 5
 
 # About me
 
-I am an Assistant Professor (Jun.Prof.) in Macroeconomics at the University of Heidelberg.
+I am an Assistant Professor (Jun.Prof.) in Macroeconomics at Heidelberg University.
 
-My general approach in research  is to incorporate behavioral and bounded rationality features into macroeconomic modelling. I believe that new insights can be obtained by also considering models that deviate from the fully rational representative agent that  optimizes over an infinite planning horizon. I am especially interested in studying issues and models that concern monetary and fiscal policy. My aim is to use a bounded rationality to gain new insights that are relevant for policy makers.
+My research focuses on expectation formation and its implications for macroeconomics. I use complementary methodologies by empirically analysing survey expectations, conducting controlled laboratory experiments, and incorporating bounded rationality into macroeconomic modelling. I believe that important new insights can be obtained by considering models that deviate from the fully rational representative agent that  optimizes over an infinite planning horizon. I am especially interested in studying issues and models that concern monetary and fiscal policy. My aim is to use a bounded rationality approach to come up with findings that are relevant for policy makers.

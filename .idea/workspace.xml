@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="hebo">
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="foto">
+      <change afterPath="$PROJECT_DIR$/content/post/Conf21/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,21 +25,21 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="about&#9;FILE&#9;file://C:/Hugo/bin/quickstart/themes/academic/layouts/partials/widgets/about.html" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/publication" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/post" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\post" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\Lus19" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\HomLus15" />
-      <recent name="C:\Users\ba2bu4\PycharmProjects\mysite\content\post" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\img" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\img\headers" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\post" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\Lus19" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\HomLus15" />
+      <recent name="C:\Users\ba2bu4\PycharmProjects\mysite\content\post" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,20 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00010" summary="jedc2news">
-      <created>1549993840923</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1549993840923</updated>
-    </task>
-    <task id="LOCAL-00011" summary="jedc2cor">
-      <created>1549993996853</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1549993996853</updated>
     </task>
     <task id="LOCAL-00012" summary="&#10;jedcnews">
       <created>1549994235808</created>
@@ -406,7 +394,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614366851096</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="foto">
+      <created>1621454586390</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1621454586391</updated>
+    </task>
+    <task id="LOCAL-00060" summary="foto">
+      <created>1621454695393</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1621454695393</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,6 +449,7 @@
     <MESSAGE value="inequality" />
     <MESSAGE value="rr" />
     <MESSAGE value="hebo" />
-    <option name="LAST_COMMIT_MESSAGE" value="hebo" />
+    <MESSAGE value="foto" />
+    <option name="LAST_COMMIT_MESSAGE" value="foto" />
   </component>
 </project>
