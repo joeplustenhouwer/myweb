@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = []
-summary = "After having to cancel the behavioral macroeconomics workshop we have now prepared a very interesting program for our Third Behavioral Macroeconomics Workshop as an online event with plenary invited sessions only. The workshop will take place on July 7th and 8th and hte program can be found here <a href="https://www.uni-bamberg.de/vwl-awifo/behavioral-macro-workshop/">here</a>."
+summary = "After having to cancel the behavioral macroeconomics workshop we have now prepared a very interesting program for our Third Behavioral Macroeconomics Workshop as an online event with plenary invited sessions only. The workshop will take place on July 7th and 8th and the program can be found here ."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
