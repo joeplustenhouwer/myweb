@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="workshop">
-      <change beforePath="$PROJECT_DIR$/content/post/Conf21/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/Conf21/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,27 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00014" summary="&#10;jedccorrections">
-      <created>1550053112590</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1550053112590</updated>
-    </task>
-    <task id="LOCAL-00015" summary="jme">
-      <created>1551610770719</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1551610770719</updated>
-    </task>
-    <task id="LOCAL-00016" summary="&#10;jme2">
-      <created>1551610864906</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1551610864906</updated>
     </task>
     <task id="LOCAL-00017" summary="&#10;jme2">
       <created>1551611403865</created>
@@ -405,7 +385,28 @@
       <option name="project" value="LOCAL" />
       <updated>1623224698487</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="workshop">
+      <created>1623224966108</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1623224966108</updated>
+    </task>
+    <task id="LOCAL-00064" summary="workshop">
+      <created>1623225013719</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1623225013719</updated>
+    </task>
+    <task id="LOCAL-00065" summary="workshop">
+      <created>1623225144600</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1623225144600</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

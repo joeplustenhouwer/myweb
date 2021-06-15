@@ -1,6 +1,6 @@
 +++
-title = "Fiscal Consolidations and Finite Planning Horizons"
-date = 2017-12-01T00:00:00
+title = "The Effects of Fiscal Policy when Planning Horizons are Finite "
+date = 2021-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["Joep Lustenhouwer","Kostas Mavromatis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BERG Working Paper 130. <i>Revise and Resubmit, Journal of Money, Credit and Banking </i>"
+publication = "DNB Working Paper No. 717. <i>Revise and Resubmit, Journal of Money, Credit and Banking </i>"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We analyze fiscal consolidations using a New-Keynesian model where agents have finite planning horizons and are uncertain about the future state of the economy. Both consumers and firms are infinitely lived, but only plan and form expectations up to a finite number of periods into the future. The length of agents? planning horizons plays an important role in determining how spending cuts or tax increases affect output and inflation. We find that for low degrees of relative risk aversion spending-based consolidations are less costly in terms of output losses, in line with empirical evidence. A stronger response of monetary policy to inflation makes spending-based consolidations more favorable as well. Interestingly, for short planning horizons, our model captures the positive comovement between private consumption and government spending observed in the data."
+abstract = "How important is the planning horizon of households for the effects of fiscal plans? We address this question through the lens of a New-Keynesian model where households are boundedly rational and plan over a finite number of periods. We show that the planning horizon affects the medium-run cumulative multipliers significantly. Government spending cumulative multipliers increase with the horizon while labor tax cumulative multipliers drop, in absolute terms. In light of the recent debt crisis in the Euro Area, we look at spending cuts and labor income tax hikes. In line with the empirical literature, we find in our benchmark calibration that spending cuts are less recessionary than tax hikes. Looking at the interaction between the planning horizon and the persistence of the fiscal plans, we find that spending cuts become less recessionary while tax hikes more recessionary when the persistence of fiscal plans rise, and that this effect is amplified by shorter planning horizons. Introducing wage stickiness, we show that for very sticky wages, tax hikes become less recessionary than spending cuts, but that intermediate levels of wage stickiness have the opposite effect on fiscal multipliers when planning horizons are finite."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_130.pdf"
+url_pdf = "https://www.dnb.nl/media/4vwj3ik0/working_paper_no-_717.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
