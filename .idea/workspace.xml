@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="workshop">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="dnb">
       <change beforePath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,13 +61,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00017" summary="&#10;jme2">
-      <created>1551611403865</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1551611403865</updated>
     </task>
     <task id="LOCAL-00018" summary="&#10;jme2">
       <created>1551611690382</created>
@@ -406,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623225144600</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="dnb">
+      <created>1623770753834</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1623770753835</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="aca" />
     <MESSAGE value="layoutss" />
     <MESSAGE value="bild" />
     <MESSAGE value="bild2" />
@@ -448,6 +446,7 @@
     <MESSAGE value="hebo" />
     <MESSAGE value="foto" />
     <MESSAGE value="workshop" />
-    <option name="LAST_COMMIT_MESSAGE" value="workshop" />
+    <MESSAGE value="dnb" />
+    <option name="LAST_COMMIT_MESSAGE" value="dnb" />
   </component>
 </project>
