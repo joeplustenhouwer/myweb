@@ -1,5 +1,5 @@
 +++
-title = "Funding For Junior Research Group"
+title = "Funding for Junior Research Group"
 subtitle = "Expectation Formation in Macroeconomics and its Implications for Monetary and Fiscal Policy"
 
 date = 2021-06-21T00:00:00
