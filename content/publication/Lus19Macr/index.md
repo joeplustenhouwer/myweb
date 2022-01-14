@@ -1,6 +1,6 @@
 +++
 title = "Unanchored Expectations: Self-reinforcing Liquidity Traps and Multiple Steady States"
-date = 2019-03-30T00:00:00
+date = 2021-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Macroeconomic Dynamics, forthcoming"
+publication = "Macroeconomic Dynamics"
 publication_short = ""
 
 # Abstract and optional shortened version.

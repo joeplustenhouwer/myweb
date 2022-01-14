@@ -1,6 +1,6 @@
 +++
 title = "The Stabilizing Role of Forward Guidance: A Macro Experiment"
-date = 2018-09-01T00:00:00
+date = 2021-01-014T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Steffen Ahrens", "Joep Lustenhouwer", "Michele Tettamanzi"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BERG Working Paper 137. <i>Revise and Resubmit, Macroeconomic Dynamics</i>"
+publication = "Macroeconomic Dynamics"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = "Expectations are among the main driving forces for economic dynamics
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_137.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -65,7 +65,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1017/S1365100521000687"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
