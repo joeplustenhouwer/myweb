@@ -1,5 +1,5 @@
 +++
-title = "The Stabilizing Role of Forward Guidance: A Macro Experiment"
+title = "The Stabilizing Effects of Publishing Strategic Central Bank Projections"
 date = 2021-01-14T00:00:00
 draft = false
 
