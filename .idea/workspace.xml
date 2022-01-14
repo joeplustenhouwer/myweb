@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="hbs">
-      <change afterPath="$PROJECT_DIR$/content/publication/ALT/cite.bib" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="macrodyn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/publication/ALT/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/ALT/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/Lus19Macr/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Lus19Macr/cite.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/Lus19Macr/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Lus19Macr/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00024" summary="&#10;bunde">
-      <created>1554146016242</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1554146016242</updated>
     </task>
     <task id="LOCAL-00025" summary="&#10;bunde">
       <created>1554146326540</created>
@@ -409,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624310430131</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="macrodyn">
+      <created>1642176082091</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1642176082092</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +432,6 @@
     <MESSAGE value="&#10;jedccorrections" />
     <MESSAGE value="&#10;jme2" />
     <MESSAGE value="&#10;bunde" />
-    <MESSAGE value="macrodyn" />
     <MESSAGE value="heidelberg" />
     <MESSAGE value="pdf" />
     <MESSAGE value="revision" />
@@ -451,6 +447,7 @@
     <MESSAGE value="dnb" />
     <MESSAGE value="cv" />
     <MESSAGE value="hbs" />
-    <option name="LAST_COMMIT_MESSAGE" value="hbs" />
+    <MESSAGE value="macrodyn" />
+    <option name="LAST_COMMIT_MESSAGE" value="macrodyn" />
   </component>
 </project>

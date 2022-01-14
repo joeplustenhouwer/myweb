@@ -1,6 +1,6 @@
 +++
 title = "The Stabilizing Role of Forward Guidance: A Macro Experiment"
-date = 2021-01-014T00:00:00
+date = 2021-01-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
