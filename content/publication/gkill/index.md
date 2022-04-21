@@ -19,7 +19,7 @@ authors = ["Giorgos Galanis","Iraklis Kollias","Ioanis Leventidis","Joep Lustenh
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "AWI discussion paper series No. 714"
+publication = "AWI discussion paper series No. 715"
 publication_short = ""
 
 # Abstract and optional shortened version.
