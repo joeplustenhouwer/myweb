@@ -1,10 +1,11 @@
 +++
-title = "Forecast revisions in the presence of news: a lab investigation"
+title = "Generalizing Heuristic Switching Models"
 date = 2022-04-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Joep Lustenhouwer","Isabelle Salle"]
+authors = ["Giorgos Galanis","Iraklis Kollias","Ioanis Leventidis","Joep Lustenhouwer"]
+
 
 # Publication type.
 # Legend:
@@ -22,7 +23,7 @@ publication = "AWI discussion paper series No. 714"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We conduct a  laboratory experiment in a  fully-fledged macroeconomic model where participants receive information about future government spending shocks and are tasked with repeatedly forecasting output over a given horizon. By eliciting several-period-head predictions, we investigate forecast reaction to news and  revision.  The lab forecasts are consistent with stylized facts on reaction to news established in the survey literature.  We find that subjects steadily learn the magnitude of the effect of the shocks on output, albeit not to full extent. We further find little support for fully backward-looking  expectations.  We rationalize the experimental data in the context of a Bayesian updating model, which  provides a better description of the behaviors in  longer-horizon environments and among more attentive and experienced subjects."
+abstract = "The growing literature in behavioral finance and macroeconomics that uses dynamic discrete choice models has overwhelmingly assumed that individual choices are made on the basis of a logit framework. While this assumption allows for analytical tractability, it comes with a number of restrictions with regards to the economic environments it can represent. These restrictions are lifted if a probit framework is used instead. In this paper we compare the two approaches and show that, due to its ability to allow for correlations between the random part of different choice alternatives as well as random taste variation, the probit-based model can better fit actual choice data from an existing laboratory experiment, especially if there are more choice alternatives. On the other hand, for the case of two choice alternatives without random taste variation, the probit-based and logit-based models result in very similar dynamics. But even in that case, we find that important qualitative differences arise -- in terms of an additional region of chaos -- in the cobweb model of the seminal work of Brock and Hommes (1997). Our work highlights the usefulness of using the probit framework for extensions of existing theoretical models and as a way to better fit dynamic experimental or real world choice data."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -50,7 +51,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.awi.uni-heidelberg.de/md/awi/forschung/deseminar/lustenhouwer_and_salle_2022_dp_714.pdf"
+url_pdf = "https://www.awi.uni-heidelberg.de/md/awi/forschung/deseminar/galanis__kollias__leventidis__and_lustenhouwer_2022_dp_715.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
