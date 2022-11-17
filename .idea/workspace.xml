@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="rostock over" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="fromlaptop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/files/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/static/files/cv.pdf" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="about&#9;FILE&#9;file://C:/Hugo/bin/quickstart/themes/academic/layouts/partials/widgets/about.html" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/content/publication" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00031" summary="macrodyn">
-      <created>1554147253417</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1554147253417</updated>
     </task>
     <task id="LOCAL-00032" summary="macrodyn">
       <created>1570187217800</created>
@@ -403,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668704428364</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="fromlaptop">
+      <created>1668723089439</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1668723089440</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="jedc2news" />
     <MESSAGE value="jedc2cor" />
     <MESSAGE value="&#10;jedcnews" />
     <MESSAGE value="&#10;jedccorrections" />
@@ -445,6 +447,7 @@
     <MESSAGE value="wp" />
     <MESSAGE value="rostock" />
     <MESSAGE value="rostock over" />
-    <option name="LAST_COMMIT_MESSAGE" value="rostock over" />
+    <MESSAGE value="fromlaptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="fromlaptop" />
   </component>
 </project>
