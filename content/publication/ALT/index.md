@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/86FBADB6F83B70DEC4495E77E528F2D6/S1365100521000687a.pdf/the-stabilizing-effects-of-publishing-strategic-central-bank-projections.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
