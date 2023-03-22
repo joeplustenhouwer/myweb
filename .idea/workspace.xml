@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="fromlaptop">
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="cv">
+      <change afterPath="$PROJECT_DIR$/content/publication/Haglus20/cite.bib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/files/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/static/files/cv.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publication/Haglus20/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Haglus20/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,21 +24,21 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="about&#9;FILE&#9;file://C:/Hugo/bin/quickstart/themes/academic/layouts/partials/widgets/about.html" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/publication" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/publication/Haglus20" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\ALT" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\post" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\Lus19" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\HomLus15" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\img" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\img\headers" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\Haglus20" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\ALT" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\post" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\Lus19" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,13 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00032" summary="macrodyn">
-      <created>1570187217800</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1570187217800</updated>
     </task>
     <task id="LOCAL-00033" summary="macrodyn">
       <created>1570187613799</created>
@@ -406,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668723089440</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="cv">
+      <created>1668724061007</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1668724061007</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -441,13 +442,13 @@
     <MESSAGE value="foto" />
     <MESSAGE value="workshop" />
     <MESSAGE value="dnb" />
-    <MESSAGE value="cv" />
     <MESSAGE value="hbs" />
     <MESSAGE value="macrodyn" />
     <MESSAGE value="wp" />
     <MESSAGE value="rostock" />
     <MESSAGE value="rostock over" />
     <MESSAGE value="fromlaptop" />
-    <option name="LAST_COMMIT_MESSAGE" value="fromlaptop" />
+    <MESSAGE value="cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv" />
   </component>
 </project>

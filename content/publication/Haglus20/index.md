@@ -1,6 +1,6 @@
 +++
 title = "The role of stickiness, extrapolation and past consensus forecasts in macroeconomic expectations"
-date = 2020-11-01T00:00:00
+date = 2023-03-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,15 +18,15 @@ authors = ["Tim Hagenhoff","Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BERG Working Paper 163"
-publication_short = ""
+publication =  "Journal of Economic Dynamics and Control"
+# publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = 	"We propose a simple model of expectation formation with three distinct deviations from fully rational expectations. In particular, forecasters' expectations are sticky, extrapolate the most recent news about the current period, and depend on the lagged consensus forecast about the period being forecast. We find that all three biases are present in the Survey of Professional Forecasters as well as in the Livingston Survey, and that their magnitudes depend on the forecasting horizon. Moreover, in an over-identified econometric specification, we find that the restriction on coefficients implied by our model is always close to being satisfied and in most cases not rejected. We also stress the point that using the past consensus forecast to form expectations is a reasonable thing to do if a forecaster is not able to come up with fully rational expectations all by herself."
+abstract = 	"	We estimate a simple reduced-form model of expectation formation with three distinct deviations from full-information rational expectations that combines underreaction with overreaction to new information. In particular, forecasts are sticky, extrapolate the most recent news about the current period, and depend on the lagged consensus forecast about the period being forecast. We find that all three biases are present in the Survey of Professional Forecasters as well as in the Livingston Survey, and that their magnitudes depend on the forecasting horizon. We also stress the point that using the past consensus forecast to form expectations is a reasonable thing to do if a forecaster is not able to come up with full-information rational expectations all by herself. Finally, we show that forecasters that have more sticky expectations generally tend to rely less on the lagged consensus forecast but extrapolate news about the current period more."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_163.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -65,7 +65,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.jedc.2023.104638"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
