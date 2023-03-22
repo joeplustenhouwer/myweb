@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="cv">
-      <change afterPath="$PROJECT_DIR$/content/publication/Haglus20/cite.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/Haglus20/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Haglus20/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jedc3" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +59,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00033" summary="macrodyn">
-      <created>1570187613799</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1570187613799</updated>
     </task>
     <task id="LOCAL-00034" summary="macrodyn">
       <created>1570187808842</created>
@@ -407,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668724061007</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="jedc3">
+      <created>1679500213635</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1679500213636</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="jedc2cor" />
     <MESSAGE value="&#10;jedcnews" />
     <MESSAGE value="&#10;jedccorrections" />
     <MESSAGE value="&#10;jme2" />
@@ -449,6 +444,7 @@
     <MESSAGE value="rostock over" />
     <MESSAGE value="fromlaptop" />
     <MESSAGE value="cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="cv" />
+    <MESSAGE value="jedc3" />
+    <option name="LAST_COMMIT_MESSAGE" value="jedc3" />
   </component>
 </project>
