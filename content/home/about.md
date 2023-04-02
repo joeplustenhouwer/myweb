@@ -52,4 +52,4 @@ My research focuses on expectation formation and its implications for macroecono
 <b> External funding </b> <br>
 I lead a small junior research group which is funded by the Hans Böckler Foundation. More information can be found <a href="https://expectationformation.com/">here</a>. <br>
 
-I further have an individual research grant ('Sachbeihilfe') from the German Science Foundation (DFG) titled 'How do expectations respond to new information? Evidence from survey data and a laboratory experiment.'
+I further have an individual research grant ('Sachbeihilfe') from the German Science Foundation (DFG), titled 'How do expectations respond to new information? Evidence from survey data and a laboratory experiment.'

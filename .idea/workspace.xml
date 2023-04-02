@@ -62,13 +62,6 @@
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
     </task>
-    <task id="LOCAL-00038" summary="macrodyn">
-      <created>1570190512621</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1570190512621</updated>
-    </task>
     <task id="LOCAL-00039" summary="macrodyn">
       <created>1570190636853</created>
       <option name="number" value="00039" />
@@ -405,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680429799470</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="external funding">
+      <created>1680429874329</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1680429874329</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
