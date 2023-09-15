@@ -1,6 +1,6 @@
 +++
 title = "The Effects of Fiscal Policy when Planning Horizons are Finite"
-date = 2021-06-01T00:00:00
+date = 2023-09-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Joep Lustenhouwer","Kostas Mavromatis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "DNB Working Paper No. 717. <i>Revise and Resubmit, Journal of Money, Credit and Banking</i>"
+publication = "DNB Working Paper No. 717. <i>Accepted for publication in the Journal of Money, Credit and Banking</i>"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = "How important is the planning horizon of households for the effects 
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
