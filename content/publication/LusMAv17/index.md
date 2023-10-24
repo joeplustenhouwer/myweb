@@ -18,7 +18,7 @@ authors = ["Joep Lustenhouwer","Kostas Mavromatis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted for publication in the Journal of Money, Credit and Banking"
+publication = "Journal of Money, Credit and Banking, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.dnb.nl/media/4vwj3ik0/working_paper_no-_717.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -65,7 +65,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1111/jmcb.13100"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
