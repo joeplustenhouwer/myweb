@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jmcb">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jmcb_doi">
+      <change beforePath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +61,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00044" summary="heidelberg">
-      <created>1574622059696</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1574622059696</updated>
     </task>
     <task id="LOCAL-00045" summary="heidelberg">
       <created>1574622391706</created>
@@ -405,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694792679640</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="jmcb_doi">
+      <created>1698179802297</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1698179802298</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&#10;bunde" />
     <MESSAGE value="heidelberg" />
     <MESSAGE value="pdf" />
     <MESSAGE value="revision" />
@@ -447,6 +446,7 @@
     <MESSAGE value="external funding" />
     <MESSAGE value="cvupdate" />
     <MESSAGE value="jmcb" />
-    <option name="LAST_COMMIT_MESSAGE" value="jmcb" />
+    <MESSAGE value="jmcb_doi" />
+    <option name="LAST_COMMIT_MESSAGE" value="jmcb_doi" />
   </component>
 </project>
