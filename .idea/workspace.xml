@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jmcb_doi">
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jmcb_tim">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publication/Haglus19/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Haglus19/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00046" summary="pdf">
-      <created>1579038368506</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1579038368507</updated>
     </task>
     <task id="LOCAL-00047" summary="revision">
       <created>1589287464522</created>
@@ -405,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698179935892</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="jmcb_tim">
+      <created>1698835523698</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1698835523699</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="heidelberg" />
     <MESSAGE value="pdf" />
     <MESSAGE value="revision" />
     <MESSAGE value="jme" />
@@ -447,6 +447,7 @@
     <MESSAGE value="cvupdate" />
     <MESSAGE value="jmcb" />
     <MESSAGE value="jmcb_doi" />
-    <option name="LAST_COMMIT_MESSAGE" value="jmcb_doi" />
+    <MESSAGE value="jmcb_tim" />
+    <option name="LAST_COMMIT_MESSAGE" value="jmcb_tim" />
   </component>
 </project>

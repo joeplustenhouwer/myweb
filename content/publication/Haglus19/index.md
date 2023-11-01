@@ -1,6 +1,6 @@
 +++
 title = "The Rationality Bias"
-date = 2019-03-01T00:00:00
+date = 2023-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = "Accepted for publication in the Journal of Money, Credit and Bank
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We analyze differences in consumption and wealth that arise because of different degrees of rationality of households. In particular, we use a standard New Keynesian model and let a certain fraction of households be fully rational while the other fraction possesses less cognitive ability. We identify the rationality bias of boundedly rational agents, defined as a deviation from the fully rational benchmark, as the driver of consumption and wealth heterogeneity. It turns out that the rationality bias can be decomposed into three individual components: the consumption expectation bias, the real interest rate bias and the preference shock expectation bias. We show that for certain specifications of monetary policy the rationality bias can be eliminated because its individual components exactly offset each other although they are individually non-zero. However, it might not be desirable from a welfare perspective to eliminate the rationality bias as this comes along with high inflation volatility."
+abstract = "We analyze differences in consumption and wealth in an estimated New Keynesian model with rational and boundedly rational households. Shocks are shown to cause consumption and wealth heterogeneity due to the `rationality bias' of boundedly rational households. This bias can be decomposed into three components which, for certain specifications of monetary policy, can exactly offset each other. Moreover, a more hawkish response to inflation leads to more volatility in consumption and wealth heterogeneity, which makes it optimal for the central bank to set lower coefficients in the Taylor rule than would have been the case under homogeneous rational expectations."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
