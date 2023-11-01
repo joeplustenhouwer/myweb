@@ -4,7 +4,7 @@ date = 2019-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Tim Hagenhoff","Joep Lustenhouwer"]
+authors = ["Tim Hagenhoff","Joep Lustenhouwer","Mike Tsionas"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Tim Hagenhoff","Joep Lustenhouwer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BERG Working Paper 144. <i>Revise and Resubmit, Journal of Money, Credit and Banking </i>"
+publication = "Accepted for publication in the Journal of Money, Credit and Banking"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = "We analyze differences in consumption and wealth that arise because 
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
