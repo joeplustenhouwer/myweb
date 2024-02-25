@@ -22,7 +22,7 @@ publication =  "Journal of Economic Dynamics and Control"
 # publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We estiamte"
+abstract = "We estimate"
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
