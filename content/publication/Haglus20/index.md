@@ -22,7 +22,7 @@ publication =  "Journal of Economic Dynamics and Control"
 # publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We estimate"
+abstract = "We estimate a simple reduced-form model of expectation formation with three distinct deviations from full-information rational expectations that combines underreaction with overreaction to new information. In particular, forecasts are sticky, extrapolate the most recent news about the current period, and depend on the lagged consensus forecast about the period being forecast. We find that all three biases are present in the Survey of Professional Forecasters as well as in the Livingston Survey, and that their magnitudes depend on the forecasting horizon. We also stress the point that using the past consensus forecast to form expectations is a reasonable thing to do if a forecaster is not able to come up with full-information rational expectations all by herself. Finally, we show that forecasters that have more sticky expectations generally tend to rely less on the lagged consensus forecast but extrapolate news about the current period more."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
