@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jmcb_tim">
-      <change afterPath="$PROJECT_DIR$/content/publication/LusMAv17/cite.bib" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jmcb_ksotascite">
+      <change afterPath="$PROJECT_DIR$/content/publication/Haglus19/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publication/Haglus20/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Haglus20/cite.bib" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +24,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="about&#9;FILE&#9;file://C:/Hugo/bin/quickstart/themes/academic/layouts/partials/widgets/about.html" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/publication/LusMAv17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/publication/Haglus19" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -32,11 +34,11 @@
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\Haglus19" />
+      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\LusMAv17" />
       <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\Haglus20" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\ALT" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\post" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\Lus19" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,13 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00048" summary="jme">
-      <created>1592656481083</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1592656481084</updated>
     </task>
     <task id="LOCAL-00049" summary="cite">
       <created>1592656754714</created>
@@ -405,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698836436668</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="jmcb_ksotascite">
+      <created>1698837075954</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1698837075954</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,7 +424,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pdf" />
     <MESSAGE value="revision" />
     <MESSAGE value="jme" />
     <MESSAGE value="cite" />
@@ -447,6 +448,7 @@
     <MESSAGE value="jmcb" />
     <MESSAGE value="jmcb_doi" />
     <MESSAGE value="jmcb_tim" />
-    <option name="LAST_COMMIT_MESSAGE" value="jmcb_tim" />
+    <MESSAGE value="jmcb_ksotascite" />
+    <option name="LAST_COMMIT_MESSAGE" value="jmcb_ksotascite" />
   </component>
 </project>

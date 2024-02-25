@@ -1,6 +1,6 @@
 +++
 title = "The Rationality Bias"
-date = 2023-11-01T00:00:00
+date = 2024-02-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/sowi_faecher/vwl/BERG/BERG_144.pdf"
+url_pdf = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/jmcb.13122"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -65,7 +65,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1111/jmcb.13122"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
