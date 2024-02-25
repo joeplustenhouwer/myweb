@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="jmcb_tim">
-      <change beforePath="$PROJECT_DIR$/static/files/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/static/files/cv.pdf" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="cv">
+      <change beforePath="$PROJECT_DIR$/content/publication/Haglus20/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Haglus20/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,20 +61,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00050" summary="expectation">
-      <created>1592657110625</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1592657110626</updated>
-    </task>
-    <task id="LOCAL-00051" summary="jebo">
-      <created>1595670119540</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1595670119541</updated>
     </task>
     <task id="LOCAL-00052" summary="jebo">
       <created>1595670726445</created>
@@ -405,7 +391,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708886363640</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="cv">
+      <created>1708886865457</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1708886865457</updated>
+    </task>
+    <task id="LOCAL-00100" summary="cv">
+      <created>1708887030182</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1708887030182</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,7 +438,6 @@
     <MESSAGE value="rostock" />
     <MESSAGE value="rostock over" />
     <MESSAGE value="fromlaptop" />
-    <MESSAGE value="cv" />
     <MESSAGE value="jedc3" />
     <MESSAGE value="hbs" />
     <MESSAGE value="external funding" />
@@ -447,6 +446,7 @@
     <MESSAGE value="jmcb_doi" />
     <MESSAGE value="jmcb_ksotascite" />
     <MESSAGE value="jmcb_tim" />
-    <option name="LAST_COMMIT_MESSAGE" value="jmcb_tim" />
+    <MESSAGE value="cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv" />
   </component>
 </project>
