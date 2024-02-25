@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="cv">
-      <change beforePath="$PROJECT_DIR$/content/publication/Haglus20/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Haglus20/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publication/Haglus20/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Haglus20/cite.bib" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,27 +61,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00052" summary="jebo">
-      <created>1595670726445</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1595670726445</updated>
-    </task>
-    <task id="LOCAL-00053" summary="jebo">
-      <created>1605019215312</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1605019215312</updated>
-    </task>
-    <task id="LOCAL-00054" summary="jebo">
-      <created>1614357674782</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1614357674782</updated>
     </task>
     <task id="LOCAL-00055" summary="inequality">
       <created>1614358026756</created>
@@ -405,7 +384,28 @@
       <option name="project" value="LOCAL" />
       <updated>1708887030182</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="cv">
+      <created>1708887130081</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1708887130081</updated>
+    </task>
+    <task id="LOCAL-00102" summary="cv">
+      <created>1708887139334</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1708887139334</updated>
+    </task>
+    <task id="LOCAL-00103" summary="cv">
+      <created>1708887317831</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1708887317832</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
