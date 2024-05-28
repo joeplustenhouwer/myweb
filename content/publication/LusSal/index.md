@@ -18,7 +18,7 @@ authors = ["Joep Lustenhouwer","Isabelle Salle"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "AWI discussion paper series No. 714"
+publication = "AWI discussion paper series No. 714. <b> Revise and Resubmit at European Economic Review</b>"
 publication_short = ""
 
 # Abstract and optional shortened version.

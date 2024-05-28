@@ -18,7 +18,7 @@ authors = ["Tim Hagenhoff","Joep Lustenhouwer","Mike Tsionas"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted for publication in the Journal of Money, Credit and Banking"
+publication = "Journal of Money, Credit and Banking, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
