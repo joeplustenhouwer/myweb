@@ -50,7 +50,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/jmcb.13100"
+url_pdf = "https://doi.org/10.1016/j.euroecorev.2024.104948"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

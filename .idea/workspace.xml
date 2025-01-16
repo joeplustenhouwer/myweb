@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="cv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/Haglus19/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/Haglus19/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publication/LusSal/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/LusSal/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +24,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="about&#9;FILE&#9;file://C:/Hugo/bin/quickstart/themes/academic/layouts/partials/widgets/about.html" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/publication/Haglus19" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/publication/LusSal" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -62,13 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00056" summary="rr">
-      <created>1614358193974</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1614358193974</updated>
     </task>
     <task id="LOCAL-00057" summary="rr">
       <created>1614365955070</created>
@@ -406,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708887753000</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="cv">
+      <created>1716920997223</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1716920997223</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
