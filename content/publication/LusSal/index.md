@@ -1,5 +1,5 @@
 +++
-title = "Learning to be rational in the presence of news : a lab investigation"
+title = "Learning to be rational in the presence of news: a lab investigation"
 date = 2025-01-16T00:00:00
 draft = false
 
