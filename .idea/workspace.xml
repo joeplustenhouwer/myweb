@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="cv">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/LusMAv17/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/LusSal/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/LusSal/index.md" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="EER">
+      <change afterPath="$PROJECT_DIR$/content/publication/LusSal/cite.bib" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,17 +26,18 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\LusSal" />
+      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\LusMAv17" />
+      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\Haglus19" />
+      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\Haglus20" />
+      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\LusSal" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\img" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\img\headers" />
       <recent name="C:\Users\joepl\PycharmProjects\myweb\static\files" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\Haglus19" />
-      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\LusMAv17" />
-      <recent name="C:\Users\Lustenhouwer\PycharmProjects\myweb\content\publication\Haglus20" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication" />
-      <recent name="C:\Users\joepl\PycharmProjects\myweb\content\publication\ALT" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00057" summary="rr">
-      <created>1614365955070</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1614365955070</updated>
     </task>
     <task id="LOCAL-00058" summary="hebo">
       <created>1614366851096</created>
@@ -407,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716920997223</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="EER">
+      <created>1737055964165</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1737055964166</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="revision" />
     <MESSAGE value="jme" />
     <MESSAGE value="cite" />
     <MESSAGE value="expectation" />
@@ -449,6 +447,7 @@
     <MESSAGE value="jmcb_ksotascite" />
     <MESSAGE value="jmcb_tim" />
     <MESSAGE value="cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="cv" />
+    <MESSAGE value="EER" />
+    <option name="LAST_COMMIT_MESSAGE" value="EER" />
   </component>
 </project>
