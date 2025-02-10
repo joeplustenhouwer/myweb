@@ -18,7 +18,7 @@ authors = ["Joep Lustenhouwer","Kostas Mavromatis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Money, Credit and Banking, forthcoming"
+publication = "Journal of Money, Credit and Banking"
 publication_short = ""
 
 # Abstract and optional shortened version.
