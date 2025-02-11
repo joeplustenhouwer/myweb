@@ -50,6 +50,6 @@ I am an Associate Professor (Senior Lecturer) at the University of Bath.
 My research focuses on expectation formation and its implications for macroeconomics. I use complementary methodologies by empirically analyzing survey expectations, conducting controlled laboratory experiments, and incorporating bounded rationality into macroeconomic modelling. I believe that important new insights can be obtained by considering models that deviate from the fully rational representative agent that  optimizes over an infinite planning horizon. I am especially interested in studying issues and models that concern monetary and fiscal policy. My aim is to use a bounded rationality approach obtain findings that are relevant for policy makers.
 
 <b> External funding </b> <br>
-I lead a small junior research group which is funded by the Hans Böckler Foundation. More information can be found <a href="https://expectationformation.com/">here</a>. <br>
+I lead a small junior research group which is funded by the Hans Böckler Foundation.
 
 I further have an individual research grant ('Sachbeihilfe') from the German Science Foundation (DFG), titled 'How do expectations respond to new information? Evidence from survey data and a laboratory experiment.'
