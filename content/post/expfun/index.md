@@ -4,7 +4,7 @@ subtitle = "Are Some People More Equal than Others? Experimental Evidence on Gro
 
 date = 2019-01-16T00:00:00
 lastmod = 2019-01-16T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []

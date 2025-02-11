@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="EER">
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="bath">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/Bundesbank/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/Bundesbank/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/Conf/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/Conf/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/Conf21/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/Conf21/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/HBS/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/HBS/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/expfun/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/expfun/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/heidelberg/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/heidelberg/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/jebo/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/jebo/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/jedc2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/jedc2/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +22,8 @@
     <favorites_list name="myweb" />
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1StSl2o5VNOKOfYnEs1XNnNQkx9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,13 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00060" summary="foto">
-      <created>1621454695393</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1621454695393</updated>
     </task>
     <task id="LOCAL-00061" summary="workshop">
       <created>1623224503168</created>
@@ -406,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737057565616</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="bath">
+      <created>1739197262104</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1739197262105</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="jme" />
     <MESSAGE value="cite" />
     <MESSAGE value="expectation" />
     <MESSAGE value="jebo" />
@@ -448,6 +454,7 @@
     <MESSAGE value="jmcb_tim" />
     <MESSAGE value="cv" />
     <MESSAGE value="EER" />
-    <option name="LAST_COMMIT_MESSAGE" value="EER" />
+    <MESSAGE value="bath" />
+    <option name="LAST_COMMIT_MESSAGE" value="bath" />
   </component>
 </project>
