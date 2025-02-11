@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="bath">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/Bundesbank/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/Bundesbank/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/Conf/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/Conf/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/Conf21/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/Conf21/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/HBS/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/HBS/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/expfun/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/expfun/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/heidelberg/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/heidelberg/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/jebo/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/jebo/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/jedc2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/jedc2/index.md" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="no news jme">
+      <change beforePath="$PROJECT_DIR$/content/home/posts.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/posts.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,27 +61,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00061" summary="workshop">
-      <created>1623224503168</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1623224503169</updated>
-    </task>
-    <task id="LOCAL-00062" summary="workshop">
-      <created>1623224698486</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1623224698487</updated>
-    </task>
-    <task id="LOCAL-00063" summary="workshop">
-      <created>1623224966108</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1623224966108</updated>
     </task>
     <task id="LOCAL-00064" summary="workshop">
       <created>1623225013719</created>
@@ -413,7 +384,28 @@
       <option name="project" value="LOCAL" />
       <updated>1739197262105</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="no news">
+      <created>1739301406287</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1739301406289</updated>
+    </task>
+    <task id="LOCAL-00111" summary="no jebo news">
+      <created>1739301539962</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1739301539962</updated>
+    </task>
+    <task id="LOCAL-00112" summary="no news jme">
+      <created>1739301593981</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1739301593981</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,9 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="cite" />
-    <MESSAGE value="expectation" />
-    <MESSAGE value="jebo" />
     <MESSAGE value="inequality" />
     <MESSAGE value="rr" />
     <MESSAGE value="hebo" />
@@ -455,6 +444,9 @@
     <MESSAGE value="cv" />
     <MESSAGE value="EER" />
     <MESSAGE value="bath" />
-    <option name="LAST_COMMIT_MESSAGE" value="bath" />
+    <MESSAGE value="no news" />
+    <MESSAGE value="no jebo news" />
+    <MESSAGE value="no news jme" />
+    <option name="LAST_COMMIT_MESSAGE" value="no news jme" />
   </component>
 </project>
