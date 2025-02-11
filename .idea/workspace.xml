@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="no news widget">
-      <change beforePath="$PROJECT_DIR$/content/home/posts.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/posts.md" afterDir="false" />
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="no new menu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00065" summary="workshop">
-      <created>1623225144600</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1623225144600</updated>
     </task>
     <task id="LOCAL-00066" summary="dnb">
       <created>1623770753834</created>
@@ -405,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739301863662</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="no new menu">
+      <created>1739305112981</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1739305112981</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rr" />
     <MESSAGE value="hebo" />
     <MESSAGE value="foto" />
     <MESSAGE value="workshop" />
@@ -447,6 +447,7 @@
     <MESSAGE value="no jebo news" />
     <MESSAGE value="no news jme" />
     <MESSAGE value="no news widget" />
-    <option name="LAST_COMMIT_MESSAGE" value="no news widget" />
+    <MESSAGE value="no new menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="no new menu" />
   </component>
 </project>

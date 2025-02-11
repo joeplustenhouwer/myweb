@@ -53,19 +53,19 @@ enableGitInfo = false
 
   # Your details.
   name = "Joep Lustenhouwer"
-  role = "Assistant Professor"
+  role = "Associate Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Heidelberg University", url = "https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/wipol/mitarbeiter.html" } ]
+  organizations = [ { name = "University of Bath", url = "https://researchportal.bath.ac.uk/en/persons/joep-lustenhouwer" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Lustenhouwer.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "joep.lustenhouwer@awi.uni-heidelberg.de"
-  address = "Alfred-Weber-Institute for Economics, University of Heidelberg, Bergheimer Str. 58, D-69115 Heidelberg, Germany"
-  phone = "+49-(0)6221-54-2958"
+  email = "jl4658@bath.ac.uk"
+  address = ""
+  phone = ""
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
