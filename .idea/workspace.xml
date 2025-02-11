@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="no news jme">
+    <list default="true" id="51aeef9b-20fc-4828-832d-c1cb504978c8" name="Default" comment="no news widget">
       <change beforePath="$PROJECT_DIR$/content/home/posts.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/posts.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,13 +61,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547383796380</updated>
-    </task>
-    <task id="LOCAL-00064" summary="workshop">
-      <created>1623225013719</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1623225013719</updated>
     </task>
     <task id="LOCAL-00065" summary="workshop">
       <created>1623225144600</created>
@@ -405,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739301593981</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="no news widget">
+      <created>1739301863662</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1739301863662</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="inequality" />
     <MESSAGE value="rr" />
     <MESSAGE value="hebo" />
     <MESSAGE value="foto" />
@@ -447,6 +446,7 @@
     <MESSAGE value="no news" />
     <MESSAGE value="no jebo news" />
     <MESSAGE value="no news jme" />
-    <option name="LAST_COMMIT_MESSAGE" value="no news jme" />
+    <MESSAGE value="no news widget" />
+    <option name="LAST_COMMIT_MESSAGE" value="no news widget" />
   </component>
 </project>
