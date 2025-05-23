@@ -1,6 +1,6 @@
 +++
-title = "Generalizing Heuristic Switching Models"
-date = 2022-04-21T00:00:00
+title = "Generalizing heuristic switching models and a (boundedly) rational route away from randomness"
+date = 2025-05-23T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -19,15 +19,15 @@ authors = ["Giorgos Galanis","Iraklis Kollias","Ioanis Leventidis","Joep Lustenh
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "AWI discussion paper series No. 715"
+publication = "Journal of Economic Dynamics and Control"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The growing literature in behavioral finance and macroeconomics that uses dynamic discrete choice models has overwhelmingly assumed that individual choices are made on the basis of a logit framework. While this assumption allows for analytical tractability, it comes with a number of restrictions with regards to the economic environments it can represent. These restrictions are lifted if a probit framework is used instead. In this paper we compare the two approaches and show that, due to its ability to allow for correlations between the random part of different choice alternatives as well as random taste variation, the probit-based model can better fit actual choice data from an existing laboratory experiment, especially if there are more choice alternatives. On the other hand, for the case of two choice alternatives without random taste variation, the probit-based and logit-based models result in very similar dynamics. But even in that case, we find that important qualitative differences arise -- in terms of an additional region of chaos -- in the cobweb model of the seminal work of Brock and Hommes (1997). Our work highlights the usefulness of using the probit framework for extensions of existing theoretical models and as a way to better fit dynamic experimental or real world choice data."
+abstract = "The behavioral economics literature on evolutionary discrete choice models typically relies on the standard logit framework. However, this approach imposes significant limitations on the types of economic environments it can represent as it, e.g., does not allow for heterogeneity in preferences regarding observables (random taste variation) and assumes independence of irrelevant alternatives (IIA). We relax the assumptions underlying standard logit and address two key questions: (i) to what extent do the theoretical insights of Brock and Hommes (1997) (BH) hold in more general economic settings? (ii) can the standard logit's shortcomings in capturing relevant experimental findings be resolved by using more flexible forms of discrete choice models? We find that a probit-based model that meaningfully relaxes the IIA assumption fits experimental data with four choice alternatives considerably better than standard logit, especially if the model additionally allows for random taste variation. Further, we demonstrate that while the key insights of BH remain valid in broader environments, allowing for taste variation can provide a route away from the chaotic dynamics emerging in BH."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -51,7 +51,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.awi.uni-heidelberg.de/md/awi/forschung/deseminar/galanis__kollias__leventidis__and_lustenhouwer_2022_dp_715.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -66,7 +66,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.jedc.2025.105125"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
