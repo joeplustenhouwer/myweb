@@ -51,7 +51,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0165188925000910?via%3Dihub"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
