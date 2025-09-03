@@ -20,7 +20,12 @@ weight = 5
   "Fiscal policy",
   "Experimental macroeconomics"]
 
-# List your qualifications (such as academic degrees).
+# List your qualifications(such as academic degrees).
+[[education.courses]]
+  course = "Habilitation-equivalent aptitude evaluation of Juniorprofessorship in economics"
+  institution = "Heidelberg University"
+  year = 2025
+
 [[education.courses]]
   course = "PhD in Economics (Cum Laude, highest Dutch distinction)"
   institution = "University of Amsterdam"
